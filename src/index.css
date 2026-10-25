@@ -1,8 +1,6 @@
 
-@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap");
-
 :root {
-  font-family: "DM Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   color: #17251f;
   background: #f5f7f5;
   font-synthesis: none;
@@ -47,7 +45,7 @@ button {
   display: flex;
   align-items: center;
   gap: 12px;
-  padding: 22px 22px 18px;
+  padding: max(22px, calc(22px + env(safe-area-inset-top, 0px))) 22px 18px;
   border-bottom: 1px solid #edf0ed;
 }
 
@@ -67,7 +65,7 @@ button {
 }
 
 .topbar strong {
-  font-family: "Manrope", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: 15px;
   font-weight: 800;
 }
@@ -110,7 +108,7 @@ p {
 
 h1 {
   margin-bottom: 24px;
-  font-family: "Manrope", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: clamp(27px, 7vw, 34px);
   font-weight: 800;
   line-height: 1.2;
@@ -118,7 +116,7 @@ h1 {
 }
 
 h2 {
-  font-family: "Manrope", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
 .balance-card {
@@ -141,7 +139,7 @@ h2 {
 
 .balance-value {
   margin: 20px 0 22px;
-  font-family: "Manrope", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: clamp(29px, 8vw, 38px);
   font-weight: 800;
   letter-spacing: -1.4px;
@@ -209,7 +207,7 @@ h2 {
 .summary-card > strong {
   display: block;
   overflow-wrap: anywhere;
-  font-family: "Manrope", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: clamp(14px, 3.8vw, 19px);
   font-weight: 800;
 }
@@ -418,7 +416,7 @@ h2 {
 }
 
 .report-card > strong {
-  font-family: "Manrope", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: 22px;
   overflow-wrap: anywhere;
 }
