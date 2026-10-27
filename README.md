@@ -2,6 +2,8 @@
 
 A personal finance management application developed with a focus on privacy, customization, simplicity, and offline access.
 
+**Language:** English | [Português (Brasil)](README.pt-BR.md)
+
 ## About the Project
 
 Personal Finance Manager is a project that aims to provide a flexible tool for organizing and monitoring personal finances, allowing each user to adapt the application to their needs and the way they manage their money.
@@ -51,6 +53,7 @@ The project is currently under development. Features are divided into those alre
 ### Planned
 
 **Financial Management**
+
 - [ ] Create, edit, view, and delete expenses.
 - [ ] Organize transactions using customizable categories.
 - [ ] View the complete transaction history.
@@ -58,12 +61,14 @@ The project is currently under development. Features are divided into those alre
 - [ ] Customize financial settings and organizational preferences.
 
 **Cards and Investments**
+
 - [ ] Explore card integrations to import or retrieve expenses, depending on the availability of services and APIs.
 - [ ] View and organize investment information.
 - [ ] Generate investment summaries and reports.
 - [ ] Investigate Open Finance integration to connect accounts and retrieve financial information with user authorization.
 
 **User Experience and Data Storage**
+
 - [ ] Develop an interface optimized for iPhone.
 - [ ] Support offline access to core features.
 - [ ] Enable installation on the iPhone Home Screen.
@@ -134,51 +139,51 @@ The project is in its early stages. The application structure has been configure
 The project's license has not yet been determined.
 
 
-
-#Portugues
 # Gerenciador Financeiro Pessoal
 
-Aplicação de gerenciamento financeiro pessoal desenvolvida com foco em privacidade, personalização, simplicidade e funcionamento offline.
+Aplicação de gerenciamento financeiro pessoal desenvolvida com foco em privacidade, personalização, simplicidade e acesso offline.
 
-## Sobre o projeto
+**Idioma:** [English](README.md) | Português (Brasil)
 
-O Gerenciador Financeiro Pessoal é um projeto que busca oferecer uma ferramenta flexível para organizar e acompanhar a vida financeira, permitindo que cada usuário adapte a aplicação às suas necessidades e à maneira como administra seu dinheiro.
+## Sobre o Projeto
 
-A proposta é reunir, em um único lugar, recursos para acompanhar despesas, movimentações financeiras e investimentos, com uma experiência personalizável e prioridade para o armazenamento local dos dados.
+O Gerenciador Financeiro Pessoal é um projeto que busca oferecer uma ferramenta flexível para organizar e acompanhar as finanças pessoais, permitindo que cada usuário adapte a aplicação às suas necessidades e à maneira como administra seu dinheiro.
 
-O objetivo é desenvolver uma aplicação prática, acessível e adaptável, que ofereça ao usuário maior controle sobre suas informações e sobre a forma como organiza suas finanças.
+A proposta é reunir, em um único lugar, recursos para acompanhar despesas, movimentações financeiras e investimentos, oferecendo uma experiência personalizável e priorizando o armazenamento local dos dados.
+
+O objetivo é desenvolver uma aplicação prática, acessível e adaptável, que proporcione ao usuário maior controle sobre suas informações e sobre a forma como organiza suas finanças.
 
 ## Motivação
 
 A organização financeira é uma parte importante da vida cotidiana, mas cada pessoa possui necessidades, hábitos e formas diferentes de administrar o próprio dinheiro. Uma ferramenta que funciona bem para alguém pode não atender às necessidades de outra pessoa.
 
-Além disso, informações financeiras são pessoais e exigem cuidados com privacidade, armazenamento e acesso aos dados.
+Além disso, as informações financeiras são pessoais e exigem cuidados relacionados à privacidade, ao armazenamento e ao acesso aos dados.
 
-A partir dessas questões, surgiu a ideia de desenvolver um gerenciador financeiro que priorize quatro princípios:
+Essas questões motivaram a criação de um gerenciador financeiro baseado em quatro princípios fundamentais:
 
-- **Privacidade:** priorizar o armazenamento local das informações financeiras, reduzindo a necessidade de compartilhar dados pessoais com servidores externos.
+- **Privacidade:** priorizar o armazenamento local dos registros financeiros, reduzindo a necessidade de compartilhar dados pessoais com servidores externos.
 - **Disponibilidade offline:** permitir o acesso às principais funcionalidades sem depender constantemente de uma conexão com a internet.
 - **Simplicidade:** oferecer uma interface intuitiva que facilite o registro, a consulta e a organização das informações financeiras.
-- **Personalização:** permitir que o usuário adapte categorias, configurações e formas de acompanhamento à sua realidade financeira, em vez de precisar se ajustar a um modelo rígido de organização.
+- **Personalização:** permitir que o usuário adapte categorias, configurações e formas de acompanhamento à sua realidade financeira, em vez de precisar seguir um modelo rígido de organização.
 
-Além de atender a essas necessidades, o projeto também representa uma oportunidade de aplicar conhecimentos adquiridos na universidade e nos estudos independentes, desenvolvendo uma aplicação real e evoluindo continuamente as habilidades de programação e engenharia de software.
+Além de buscar atender a essas necessidades, o projeto representa uma oportunidade de aplicar conhecimentos adquiridos na universidade e por meio de estudos independentes, desenvolvendo uma aplicação prática e aprimorando continuamente as habilidades de programação e engenharia de software.
 
 ## Objetivos
 
 - Centralizar a organização das informações financeiras pessoais.
 - Permitir o registro, a consulta e o acompanhamento de despesas e outras movimentações financeiras.
-- Oferecer recursos para acompanhar investimentos, visualizar resultados e consultar relatórios financeiros.
-- Permitir a personalização da aplicação conforme as necessidades e preferências de cada usuário.
+- Oferecer recursos para acompanhar investimentos, visualizar seu desempenho e consultar relatórios financeiros.
+- Permitir que cada usuário personalize a aplicação de acordo com suas necessidades e preferências.
 - Explorar integrações com cartões e serviços financeiros para facilitar a consolidação das informações.
 - Estudar a integração com o Open Finance para obter dados financeiros por meio de conexões autorizadas.
-- Priorizar o armazenamento local e reduzir a exposição desnecessária de dados pessoais.
+- Priorizar o armazenamento local e reduzir a exposição desnecessária de informações pessoais.
 - Desenvolver uma aplicação com suporte ao funcionamento offline.
-- Aplicar boas práticas de programação, organização de código, modelagem de dados e persistência de informações.
-- Consolidar conhecimentos de programação adquiridos na universidade e nos estudos independentes por meio de um projeto prático.
+- Aplicar boas práticas de desenvolvimento de software, organização de código, modelagem de dados e persistência de informações.
+- Consolidar conhecimentos de programação adquiridos na universidade e por meio de estudos independentes, desenvolvendo um projeto prático.
 
 ## Funcionalidades
 
-O projeto está em desenvolvimento. As funcionalidades abaixo estão divididas entre o que já foi implementado e o que está planejado.
+O projeto está em desenvolvimento. As funcionalidades estão divididas entre aquelas já implementadas e aquelas planejadas para as próximas etapas.
 
 ### Implementado
 
@@ -188,45 +193,48 @@ O projeto está em desenvolvimento. As funcionalidades abaixo estão divididas e
 
 ### Planejado
 
-**Gerenciamento financeiro**
+**Gestão Financeira**
+
 - [ ] Cadastro, edição, consulta e exclusão de despesas.
 - [ ] Organização das movimentações por categorias personalizáveis.
 - [ ] Consulta do histórico completo de movimentações.
-- [ ] Resumos de gastos por período.
+- [ ] Geração de resumos de gastos por período.
 - [ ] Personalização das configurações e da organização financeira.
 
-**Cartões e investimentos**
-- [ ] Explorar a integração com cartões para importar ou consultar gastos, conforme a disponibilidade dos serviços e das APIs.
-- [ ] Consulta e organização de informações sobre investimentos.
-- [ ] Relatórios e resumos de investimentos.
-- [ ] Estudar a integração com o Open Finance para conectar contas e consultar informações financeiras mediante autorização.
+**Cartões e Investimentos**
 
-**Experiência e armazenamento**
-- [ ] Interface adaptada para iPhone.
-- [ ] Funcionamento offline das funcionalidades principais.
-- [ ] Instalação na Tela de Início do iPhone.
-- [ ] Estratégia de backup e recuperação dos dados.
-- [ ] Avaliação de medidas adicionais de segurança e proteção das informações.
+- [ ] Explorar integrações com cartões para importar ou consultar despesas, conforme a disponibilidade de serviços e APIs.
+- [ ] Consultar e organizar informações sobre investimentos.
+- [ ] Gerar resumos e relatórios de investimentos.
+- [ ] Estudar a integração com o Open Finance para conectar contas e consultar informações financeiras mediante autorização do usuário.
 
-## Tecnologias utilizadas
+**Experiência do Usuário e Armazenamento de Dados**
+
+- [ ] Desenvolver uma interface adaptada para iPhone.
+- [ ] Implementar o acesso offline às principais funcionalidades.
+- [ ] Permitir a instalação na Tela de Início do iPhone.
+- [ ] Desenvolver uma estratégia de backup e recuperação de dados.
+- [ ] Avaliar medidas adicionais de segurança para proteger as informações financeiras.
+
+## Tecnologias Utilizadas
 
 - **React:** construção da interface da aplicação.
 - **TypeScript:** tipagem estática e organização do código.
 - **Vite:** ambiente de desenvolvimento e ferramenta de build.
 - **Dexie.js:** biblioteca que simplifica o acesso e o gerenciamento do banco de dados local.
-- **IndexedDB:** tecnologia de armazenamento de dados estruturados no navegador.
+- **IndexedDB:** tecnologia do navegador utilizada para armazenar dados estruturados localmente.
 
-## Privacidade e armazenamento
+## Privacidade e Armazenamento de Dados
 
-A arquitetura do projeto prioriza o armazenamento local das informações financeiras, buscando reduzir a dependência de servidores externos e dar ao usuário maior controle sobre seus dados.
+A arquitetura do projeto prioriza o armazenamento local das informações financeiras, buscando reduzir a dependência de servidores externos e proporcionar ao usuário maior controle sobre seus dados.
 
-O funcionamento offline é outro objetivo central, permitindo que as principais funcionalidades sejam utilizadas sem conexão com a internet após a configuração necessária.
+O funcionamento offline também é um dos principais objetivos, permitindo que as funcionalidades essenciais sejam utilizadas sem conexão com a internet após a configuração necessária.
 
-As integrações futuras com serviços financeiros serão avaliadas considerando suas necessidades técnicas, os mecanismos de autorização e os impactos sobre a privacidade. Essas integrações poderão exigir conexão com a internet e serviços externos.
+As futuras integrações com serviços financeiros serão avaliadas considerando seus requisitos técnicos, mecanismos de autorização e impactos sobre a privacidade. Essas integrações poderão exigir conexão com a internet e o uso de serviços externos.
 
 O armazenamento local, por si só, não garante proteção absoluta. Por isso, o desenvolvimento também deverá considerar os riscos relacionados ao acesso ao dispositivo, à segurança do navegador e à realização de backups.
 
-## Como executar o projeto
+## Como Executar o Projeto
 
 ### Pré-requisitos
 
@@ -253,7 +261,7 @@ Instale as dependências:
 npm install
 ```
 
-Inicie o ambiente de desenvolvimento:
+Inicie o servidor de desenvolvimento:
 
 ```bash
 npm run dev
@@ -261,11 +269,11 @@ npm run dev
 
 O Vite exibirá no terminal o endereço local para acessar a aplicação pelo navegador.
 
-## Status do projeto
+## Status do Projeto
 
 **Em desenvolvimento.**
 
-O projeto está em sua fase inicial, com a estrutura da aplicação configurada e os primeiros testes de persistência local realizados. As funcionalidades de gerenciamento financeiro, personalização, integrações e utilização offline serão implementadas e validadas gradualmente.
+O projeto está em sua fase inicial. A estrutura da aplicação foi configurada e os primeiros testes de persistência local foram realizados. As funcionalidades de gestão financeira, personalização, integrações e utilização offline serão implementadas e validadas gradualmente.
 
 ## Licença
 
